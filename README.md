@@ -1,3 +1,6 @@
 # My Digital Cookbook
+
 ## Welcome to my cooking journey!
-"**Created by:** [Carter Metcalfe]" 
+
+**Created by:** \[Carter Metcalfe]
+
